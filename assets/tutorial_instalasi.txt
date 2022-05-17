@@ -1,0 +1,2 @@
+1. Buat Database dengan nama apk_sistem_pakar.
+2. Import Database yang terdapat pada folder assets > sql.
